@@ -1,6 +1,6 @@
 require 'pry'
 def second_supply_for_fourth_of_july(holiday_supplies)
-  holiday_hash[:fourth_of_july]
+  holiday_supplies[:fourth_of_july]
 end
   
  def add_supply_to_winter_holidays(holiday_hash, supply)
