@@ -1,5 +1,5 @@
 require 'pry'
-holiday_supplies_hash[:summer][:fourth_of_july][1]
+holiday_hash[:summer][:fourth_of_july][1]
   
  def add_supply_to_winter_holidays(holiday_hash, supply)
   holiday_hash.each do |season, value|
