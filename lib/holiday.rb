@@ -1,5 +1,6 @@
 require 'pry'
-def second_supply_for_fourth_of_july
+def second_supply_for_fourth_of_july(holiday_supplies)
+  
   
   
  def add_supply_to_winter_holidays(holiday_hash, supply)
